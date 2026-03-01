@@ -1,5 +1,6 @@
-# Javi Tinaut | Firmware Engineer
-
+# Javi Tinaut
+## Firmware Engineer | Embedded | Systems
+### 42 Barcelona Student
 
 
 <!--

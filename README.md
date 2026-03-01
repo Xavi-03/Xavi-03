@@ -1,8 +1,8 @@
 # Javi Tinaut
-## Firmware Engineer | Embedded | Systems
-### 42 Barcelona Student
+## Firmware Engineer · Embedded · Systems
+** 42 Barcelona Student
 
-
+---
 
 ### DEV STACK
 <p align="left">
